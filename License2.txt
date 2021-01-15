@@ -1,2 +1,4 @@
 Another File 
 Simpole text
+
+License for user X.
